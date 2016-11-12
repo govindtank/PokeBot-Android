@@ -1,9 +1,9 @@
-# PokeBot Android Version 1.0.22
+# PokeBot Android Version 1.0.23
 
 
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.22/PokeBot.v1.0.22.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.23/PokeBot.v1.0.23.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
 
 ##DONATE
@@ -14,9 +14,9 @@ Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 ##DISCORD
 News in Discord channel : https://discord.gg/WcMFfUZ
 
-<h3>Version changes (11/12/2016 17:54 GMT+2):</h3>
+<h3>Version changes (11/12/2016 18:20 GMT+2):</h3>
 
-* Updated to 0.45 API
+* Fixed "Keep Pokemon List"
 
 Note : Sometimes give a problem on communications. We are working on.
 
@@ -26,6 +26,10 @@ We hard working make the best android bot for your. Now we need translators. IF 
 
 
 <h3>Change logs:</h3>
+v1.0.22
+
+* Updated to 0.45 API
+
 v1.0.21
 
 * Fixed auto re-connect
