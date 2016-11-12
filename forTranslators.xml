@@ -146,13 +146,13 @@
     <string name="_EventFortFailed">Name: %1$s INFO: Looting failed, possible softban. Unban in: %2$s of %3$s</string> <!-- %1$s -> POKESTOP NAME %2$s -> TRYING %3$s TOTAL COUNT OF TRY -->
     <string name="_ServerError">Probably; Niantic servers are down, internet connection is lost or login credential is invalid. </string>
     <string name="_PokemonLevelUp">LEVEL UP! Name: %1$s  NEW CP: %2$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
-    <string name="_EventNoPokeballs">NO POKEBALL! We missed a %1$s with CP %2$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
-    <string name="_EventCatchAttempt">CAPTURE ATTEMP %1$s with CP %2$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
-    <string name="_EventPokemonCaptureSuccess">CAPTURE SUCCESS! Name: %1$s CP: %2$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
-    <string name="_EventPokemonCaptureFlee">POKEMON FLEE, Name: %1$s CP: %2$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
-    <string name="_EventPokemonCaptureFailed">POKEMON FAILED, Name: %1$s CP: %2$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
-    <string name="_EventPokemonCaptureMissed">POKEMON MISSED, Name: %1$s CP: %2$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
-    <string name="_EventPokemonCaptureEscape">POKEMON ESCAPE, Name: %1$s CP: %2$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
+    <string name="_EventNoPokeballs">NO POKEBALL! We missed a %1$s with CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
+    <string name="_EventCatchAttempt">CAPTURE ATTEMP %1$s with CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
+    <string name="_EventPokemonCaptureSuccess">CAPTURE SUCCESS! Name: %1$s CP: %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
+    <string name="_EventPokemonCaptureFlee">POKEMON FLEE, Name: %1$s CP: %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
+    <string name="_EventPokemonCaptureFailed">POKEMON FAILED, Name: %1$s CP: %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
+    <string name="_EventPokemonCaptureMissed">POKEMON MISSED, Name: %1$s CP: %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
+    <string name="_EventPokemonCaptureEscape">POKEMON ESCAPE, Name: %1$s CP: %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventPokemonEvolveSuccess">EVOLVE SUCCESS, %1$s successfully for %2$s EXP</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventPokemonEvolveFailed">EVOLVE FAILED, %1$s evolve is failed.</string> <!-- %1$s -> POKEMON NAME -->
     <string name="_EventEggIncubatorStatus">Putting egg in incubator: %1$s km left</string> <!-- %1$s -> KM -->
@@ -171,10 +171,6 @@
     <string name="_FailedLogin">Can\'t connect to Niantic Server.</string>
     <string name="_StartingFarming">Starting farming... </string>
     <string name="info_text"><![CDATA[<br><br>Website : http://pokebot.pub<br>Github : https://github.com/PokeBotPub/PokeBot-Android<br><b>ATTENTION :</b> You should Pokebot only download from this sources. <!-- <br>Special thanks for translate : TRANSLATOR_INFO -->]]></string>
-        
-        
-    <!-- ADDED VERSION 1.0.13 -->
-
     <string name="saved_settings">SAVED SETTINGS</string>
     <string name="save_current_settings">SAVE CURRENT SETTINGS</string>
     <string name="import_external_settings">IMPORT EXTERNAL SETTINGS</string>
@@ -202,4 +198,37 @@
     <string name="setting_management">SETTINGS MANAGEMENT</string>
     <string name="setting_management_desc">You can load saved settings, share and anymore...</string>
 
+    <string name="captcha_settings">RECAPTCHA SOLVE</string>
+    <string name="captcha_settings_desc">Recaptcha solving methods</string>
+    <string name="use_manual_captcha_solve">Manually captcha solve</string>
+    <string name="use_auto_captcha_solve">Use auto captcha solve</string>
+    <string name="auto_captcha_solve_settings">Auto Captcha Solve Settings</string>
+    <string name="check_code">Check Code</string>
+    <string name="captcha_auto_solve_code">Captcha Auto Solve Code</string>
+    <string name="how_i_get_auto_captcha_code">How i get auto captcha solve code?</string>
+    <string name="click_here">CLICK HERE FOR DOWNLOAD</string>
+    <string name="auto_captcha_guide_1">1- Download our Donate US application from Google Play. </string>
+    <string name="auto_captcha_guide_2">2- Donate US only 1 Month or Monthly Subscription methods. </string>
+    <string name="auto_captcha_guide_3">3- You will get automatically captcha solve code. (8 Characters digits) </string>
+    <string name="auto_captcha_guide_4">Note : You can use 5 different PokemonGo accounts at the same time.</string>
+    <string name="auto_captcha_guide_5">WARNING : If you share auto captcha solve code, you will ban our all applications.</string>
+    <string name="captcha_code_valid">"Captcha code valid!</string>
+    <string name="left_hours">Left LEFT_HOURS hours.</string>
+    <string name="information">Information</string>
+    <string name="error">Error</string>
+    <string name="captcha_code_expired">Captcha code is valid but expired!</string>
+    <string name="captcha_code_invalid">Captcha code is invalid</string>
+    <string name="checking_captcha_code">Checking captcha code...</string>
+    <string name="failed_captcha_stopping_bot">Captcha failed stopping bot...</string>
+    <string name="not_found_pokestop_walk_random">IF NOT FOUND POKESTOP, GO RANDOM WALK</string>
+    <string name="how_can_i_buy_auto_solve_code">HOW CAN I BUY AUTO SOLVE CODE?</string>
+    <string name="auto_solve_step_1">1) Download Donate US application</string>
+    <string name="auto_solve_step_2">2) Make 10 USD donate</string>
+    <string name="auto_solve_step_3">3) You will get instantly auto solve code</string>
+    <string name="auto_solve_step_4">4) Auto captcha code is usable with 5 different devices.</string>
+    <string name="click_here_for_download">CLICK HERE FOR DOWNLOAD</string>
+    <string name="waiting_verify_captcha">Waiting verify captcha!</string>
+    <string name="nearby_area_found">Nearby area found, walking to %1$s for find pokestop...</string>
+    <string name="nearby_area_not_found">Nearby area not found! Looking pokestop again...</string>
+    <string name="pokemon_transfer_keep_list">POKEMON KEEP LIST</string>
 </resources>
