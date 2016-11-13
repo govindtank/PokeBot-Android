@@ -121,7 +121,6 @@
     <string name="item_recycle_desc">背包內道具數量及種類設定</string>
     <string name="misc_settings">其他設定</string>
     <string name="misc_settings_desc">使用幸運蛋，薰香等...</string>
-
     <string name="reset_all_settings">重設</string>
     <string name="reset_all_settings_desc">點擊恢復至程式預設值</string>
     <string name="are_you_sure_reset_all_settings">你確定要將全部設定恢復至預設值?</string>
