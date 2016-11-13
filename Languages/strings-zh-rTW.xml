@@ -197,7 +197,6 @@
     <string name="load">載入</string>
     <string name="setting_management">設置管理</string>
     <string name="setting_management_desc">儲存設定或載入外部設定檔，也可以將設定檔共享...</string>
-
     <string name="captcha_settings">解除驗證碼</string>
     <string name="captcha_settings_desc">驗證碼的解除方式</string>
     <string name="use_manual_captcha_solve">手動解除驗證碼</string>
