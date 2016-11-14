@@ -231,8 +231,9 @@
     <string name="nearby_area_found">Nearby area found, walking to %1$s for find pokestop...</string>
     <string name="nearby_area_not_found">Nearby area not found! Looking pokestop again...</string>
     <string name="pokemon_transfer_keep_list">POKEMON KEEP LIST</string>
-    <string name="pokemon_transfer_low_iv_pokemons">TRANSFER LOW IV POKEMONS</string>
+    <string name="pokemon_transfer_low_iv_pokemons">CHECK IV VALUE FOR TRANSFER POKEMON</string>
     <string name="pokemon_dont_transfer_above_iv">DON\'T TRANSFER ABOVE IV</string>
+    <string name="pokemon_dont_transfer_favorited_pokemon">DON\'T TRANSFER FAVORITED POKEMON</string>
     <string name="_EventPokemonTransferredIV">POKEMON TRANSFERRED, %1$s IV: %2$s Best IV: %3$s Candies: %4$s</string> <!-- %1$s -> POKEMON NAME %2$s -> IV %3$s -> BEST IV %4$s -> CANDIES -->
 
 </resources>
