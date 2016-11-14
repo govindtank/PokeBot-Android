@@ -121,6 +121,7 @@
     <string name="item_recycle_desc">背包內道具數量及種類設定</string>
     <string name="misc_settings">其他設定</string>
     <string name="misc_settings_desc">使用幸運蛋，薰香等...</string>
+
     <string name="reset_all_settings">重設</string>
     <string name="reset_all_settings_desc">點擊恢復至程式預設值</string>
     <string name="are_you_sure_reset_all_settings">你確定要將全部設定恢復至預設值?</string>
@@ -149,10 +150,10 @@
     <string name="_EventCatchAttempt">嘗試捕捉 %1$s CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventPokemonCaptureSuccess">成功捕獲 %1$s CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventPokemonCaptureFlee">神奇寶貝 %1$s 已消失 CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
-    <string name="_EventPokemonCaptureFailed">捕捉 %1$s 失敗CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
+    <string name="_EventPokemonCaptureFailed">%1$s 捕捉失敗 CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventPokemonCaptureMissed">已錯失 %1$s 捕捉機會CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventPokemonCaptureEscape">神奇寶貝 %1$s 已逃脫CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
-    <string name="_EventPokemonEvolveSuccess">進化 %1$s 完成，進化成: %2$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
+    <string name="_EventPokemonEvolveSuccess">進化 %1$s 完成，經驗值: %2$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventPokemonEvolveFailed">進化 %1$s 失敗</string> <!-- %1$s -> POKEMON NAME -->
     <string name="_EventEggIncubatorStatus">孵化器目前進度: %1$s 公里</string> <!-- %1$s -> KM -->
     <string name="_EventItemRecycled">刪除物品 %1$sx %2$s</string> <!-- %1$s -> ITEM COUNT %2$s -->
@@ -196,13 +197,14 @@
     <string name="load">載入</string>
     <string name="setting_management">設置管理</string>
     <string name="setting_management_desc">儲存設定或載入外部設定檔，也可以將設定檔共享...</string>
+
     <string name="captcha_settings">解除驗證碼</string>
     <string name="captcha_settings_desc">驗證碼的解除方式</string>
     <string name="use_manual_captcha_solve">手動解除驗證碼</string>
     <string name="use_auto_captcha_solve">自動解除驗證碼</string>
-    <string name="auto_captcha_solve_settings">自動解除驗證碼設置</string>
+    <string name="auto_captcha_solve_settings">自動解除圖形驗證碼設置</string>
     <string name="check_code">檢查代碼</string>
-    <string name="captcha_auto_solve_code">驗證碼自動解決代碼</string>
+    <string name="captcha_auto_solve_code">圖形驗證碼自動解除代碼</string>
     <string name="how_i_get_auto_captcha_code">我該如何獲得自動解除驗證碼的代碼?</string>
     <string name="click_here">點擊這裡下載</string>
     <string name="auto_captcha_guide_1">1- 從Google Play 商店下載並捐贈我們的軟件. </string>
@@ -223,13 +225,14 @@
     <string name="auto_solve_step_1">1) 下載並捐贈我的軟件</string>
     <string name="auto_solve_step_2">2) 捐贈10美金</string>
     <string name="auto_solve_step_3">3) 你會得到即時的自動解除代碼</string>
-    <string name="auto_solve_step_4">4) 自動圖形驗證碼可供5種不同的設備所使用.</string>
+    <string name="auto_solve_step_4">4) 自動解除代碼可供自己5種不同的設備所使用.</string>
     <string name="click_here_for_download">點擊這裡開始下載</string>
     <string name="waiting_verify_captcha">等待確認圖形驗證碼!</string>
     <string name="nearby_area_found">搜尋附近區域, 前往 %1$s 尋找補給站...</string>
     <string name="nearby_area_not_found">搜尋附近區域沒有任何發現! 再次尋找其他補給站...</string>
     <string name="pokemon_transfer_keep_list">神奇寶貝保留清單</string>
-    <string name="_EventPokemonTransferredIV">POKEMON TRANSFERRED, %1$s IV: %2$s Best IV: %3$s Candies: %4$s</string>
-    <string name="pokemon_transfer_low_iv_pokemons">TRANSFER LOW IV POKEMONS</string>
-    <string name="pokemon_dont_transfer_above_iv">DON\'T TRANSFER ABOVE IV</string>
+    <string name="pokemon_transfer_low_iv_pokemons">傳送低IV值的神奇寶貝</string>
+    <string name="pokemon_dont_transfer_above_iv">保留高IV值神奇寶貝的條件</string>
+    <string name="_EventPokemonTransferredIV">已傳送, %1$s IV: %2$s 目前最好IV: %3$s 糖果數: %4$s</string> <!-- %1$s -> POKEMON NAME %2$s -> IV %3$s -> BEST IV %4$s -> CANDIES -->
+    <string name="pokemon_dont_transfer_favorited_pokemon">DON\'T TRANSFER FAVORITED POKEMON</string>
 </resources>
