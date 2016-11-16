@@ -1,9 +1,9 @@
-# PokeBot Android Version 1.0.26
+# PokeBot Android Version 1.0.27
 
 
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.26/PokeBot.v1.0.26.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.27/PokeBot.v1.0.27.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
 
 ##DONATE
@@ -14,11 +14,10 @@ Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 ##DISCORD
 News in Discord channel : https://discord.gg/WcMFfUZ
 
-<h3>Version changes (11/14/2016 16:59 GMT+2):</h3>
+<h3>Version changes (11/16/2016 07:34 GMT+2):</h3>
 
-* Fixed pokemon catching out country bug 
-* Fixed disable pokemon transfer 
-* Added "Don't transfer favorited pokemons"
+* Advanced anti-softban algorithm added.
+* Added PokeSniper data miner agent  (Fully safe, slient)
 
 Note : Sometimes give a problem on communications. We are working on.
 
@@ -28,6 +27,12 @@ We hard working make the best android bot for your. Now we need translators. IF 
 
 
 <h3>Change logs:</h3>
+v1.0.26
+
+* Fixed pokemon catching out country bug 
+* Fixed disable pokemon transfer 
+* Added "Don't transfer favorited pokemons"
+
 v1.0.25
 
 * Fixed transfer pokemon bug
