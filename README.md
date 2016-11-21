@@ -1,5 +1,7 @@
 # PokeBot Android Version 1.0.28
 
+##NOTICE
+We are working on 0.47.1 version. Currently have ban risk, don't use bot!!! Update is soon.
 
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
