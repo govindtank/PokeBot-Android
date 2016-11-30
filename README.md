@@ -1,11 +1,11 @@
-# PokeBot Android Version 1.0.28
+# PokeBot Android Version 1.0.29
 
 ##NOTICE
-We are working on 0.47.1 version. Currently have ban risk, don't use bot!!! Update is soon.
+We are working on 0.47.1 version. Bot is working with 0.45 API. Use at your own risk!
 
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.28/PokeBot.v1.0.28.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.28/PokeBot.v1.0.29.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
 
 ##DONATE
@@ -16,11 +16,9 @@ Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 ##DISCORD
 News in Discord channel : https://discord.gg/WcMFfUZ
 
-<h3>Version changes (11/17/2016 21:46 GMT+2):</h3>
+<h3>Version changes (11/30/2016 22:56 GMT+2):</h3>
 
-* Fixed Foursquare API
-* Fixed little bugs on pokemon miner
-* Fixed crashes
+* Little fixes, more stabile
 
 
 Note : Sometimes give a problem on communications. We are working on.
@@ -31,6 +29,12 @@ We hard working make the best android bot for your. Now we need translators. IF 
 
 
 <h3>Change logs:</h3>
+v1.0.28
+
+* Fixed Foursquare API
+* Fixed little bugs on pokemon miner
+* Fixed crashes
+
 v1.0.27
 
 * Advanced anti-softban algorithm added.
