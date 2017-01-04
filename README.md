@@ -16,6 +16,8 @@ News in Discord channel : https://discord.gg/WcMFfUZ
 <h3>Version changes (01/04/2017 09:17 GMT+2):</h3>
 
 * Updated to latest PokemonGO version
+* Pokebot is only paid users for now.
+* Removed ADS
 * Pokebot is only paid users for now. (It had to paid. We are using HashBuddy service.)
 
 
