@@ -1,24 +1,22 @@
-# PokeBot Android Version 1.0.30
-
-##NOTICE
-We are working on 0.47.1 version. Bot is working with 0.45 API. Use at your own risk!
+# PokeBot Android Version 1.0.31
 
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.30/PokeBot.v1.0.30.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.31/PokeBot.v1.0.31.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
 
 ##DONATE
-Donate & Get Auto Solve Code : https://play.google.com/store/apps/details?id=com.donateus
+Donate & PokeKey : https://play.google.com/store/apps/details?id=com.donateus
 
 Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
 ##DISCORD
 News in Discord channel : https://discord.gg/WcMFfUZ
 
-<h3>Version changes (12/08/2016 21:30 GMT+2):</h3>
+<h3>Version changes (01/04/2017 09:17 GMT+2):</h3>
 
-* Fixed manual & auto captcha solve
+* Updated to latest PokemonGO version
+* Pokebot is only paid users for now. (It had to paid. We are using HashBuddy service.)
 
 
 Note : Sometimes give a problem on communications. We are working on.
@@ -27,8 +25,11 @@ Note : Sometimes give a problem on communications. We are working on.
 ##WE NEED TRANSLATORS
 We hard working make the best android bot for your. Now we need translators. IF you want to help us, you can use <a href="https://github.com/PokeBotPub/PokeBot-Android/blob/master/forTranslators.xml">forTranslators.xml</a>. After send to pokebot@inbox.ru mail address. 
 
-
 <h3>Change logs:</h3>
+v1.0.30
+
+* Fixed manual & auto captcha solve
+
 v1.0.29
 
 * Little fixes, more stabile
