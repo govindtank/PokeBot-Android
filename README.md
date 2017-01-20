@@ -9,7 +9,9 @@
 
 ##DONATE
 Donate & PokeKey : https://play.google.com/store/apps/details?id=com.donateus
+
 IF YOU'R NOT RECEIVE POKEKEY, CONTACT WITH pokebot2018@gmail.com MAIL SUPPORT.
+
 Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
 ##DISCORD
