@@ -1,10 +1,10 @@
-# PokeBot Android Version 1.0.36
+# PokeBot Android Version 1.0.37
 
 ##NOTICE !!! : POKEBOT SUPPORT MAIL ADDRESS : pokebot2018@gmail.com & pokebot@inbox.ru DON'T BELIEVE FRAUDERS, BE CAREFULL!!!
 
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.36/PokeBot.v1.0.36.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.37/PokeBot.v1.0.37.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
 
 ##DONATE
@@ -17,14 +17,19 @@ Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 ##DISCORD
 News in Discord channel : https://discord.gg/WcMFfUZ
 
-<h3>Version changes (02/17/2017 17:12 GMT+2):</h3>
+<h3>Version changes (02/20/2017 05:33 GMT+2):</h3>
 
-- Updated latest PokemonGO version.
+- Gen2 implements
+- Changes on transfer pokemon and catch pokemon algorthims.
 
 ##WE NEED TRANSLATORS
 We hard working make the best android bot for your. Now we need translators. IF you want to help us, you can use <a href="https://github.com/PokeBotPub/PokeBot-Android/blob/master/forTranslators.xml">forTranslators.xml</a>. After send to pokebot@inbox.ru mail address. 
 
 <h3>Change logs:</h3>
+v1.0.36
+
+* Updated latest PokemonGO version.
+
 v1.0.35
 
 * Login problem fixed!
