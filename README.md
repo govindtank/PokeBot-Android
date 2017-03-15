@@ -1,27 +1,27 @@
 # PokeBot Android Version 1.0.46
 
-##NOTICE !!! : POKEBOT BILLING SUPPORT MAIL ADDRESS : pokebot2018@gmail.com DON'T BELIEVE FRAUDERS, BE CAREFULL!!!
+## NOTICE !!! : POKEBOT BILLING SUPPORT MAIL ADDRESS : pokebot2018@gmail.com DON'T BELIEVE FRAUDERS, BE CAREFULL!!!
 
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
-##Download
+## Download
 <a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.46/PokeBot.v1.0.46.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
 
-##DONATE
+## DONATE
 Donate & PokeKey : https://play.google.com/store/apps/details?id=com.donateus
 
 IF YOU'R NOT RECEIVE POKEKEY, CONTACT WITH pokebot2018@gmail.com MAIL SUPPORT.
 
 Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
-##DISCORD
+## DISCORD
 News in Discord channel : https://discord.gg/WcMFfUZ
 
 <h3>Version changes (03/15/2017 18:26 GMT+2):</h3>
 
 - Fixed crash problem (V)
 
-##WE NEED TRANSLATORS
+## WE NEED TRANSLATORS
 We hard working make the best android bot for your. Now we need translators. IF you want to help us, you can use <a href="https://github.com/PokeBotPub/PokeBot-Android/blob/master/forTranslators.xml">forTranslators.xml</a>. After send to pokebot@inbox.ru mail address. 
 
 <h3>Change logs:</h3>
@@ -241,7 +241,7 @@ v1.0.1
 * AutoUpdate / VersionCheck updated
 
 
-##Features
+## Features
 - [x] Background work
 - [x] Low battary usage
 - [x] Anti-ban algorithm
@@ -277,7 +277,7 @@ v1.0.1
 * Turkish (Thx. Oguz)
 * French (Thx. Sioxox and Théo, Alias ShuterFox)
 
-##Warnings and TIPS
+## Warnings and TIPS
 * Don't select spawn point of outside the country. 
 * Don't play PokémonGO, while Pokébot is active. 
 * Mark to spawn point as most-visited places for more XP.
