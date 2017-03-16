@@ -19,7 +19,7 @@ News in Discord channel : https://discord.gg/WcMFfUZ
 
 <h3>Version changes (03/16/2017 17:39 GMT+2):</h3>
 
-- Fixed crash problem (VI)
+- Hashbuddy new implementation
 
 ## WE NEED TRANSLATORS
 We hard working make the best android bot for your. Now we need translators. IF you want to help us, you can use <a href="https://github.com/PokeBotPub/PokeBot-Android/blob/master/forTranslators.xml">forTranslators.xml</a>. After send to pokebot@inbox.ru mail address. 
