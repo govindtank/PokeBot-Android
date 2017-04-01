@@ -26,6 +26,7 @@ We hard working make the best android bot for your. Now we need translators. IF 
 <h3>Change logs:</h3>
 v1.0.47
 
+
 - Hashbuddy new implementation
 
 v1.0.46
